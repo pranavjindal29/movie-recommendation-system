@@ -37,7 +37,7 @@ The dataset used (`movies.csv`) contains information about:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/pranavjindal29/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
 
